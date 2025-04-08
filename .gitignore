@@ -1,0 +1,7 @@
+*.class
+/datasource/db*.properties
+**/resources/bootstrap/
+**/resources/js/jquery*.*
+**/webapp/WEB-INF/classes/
+
+/**/*.log
